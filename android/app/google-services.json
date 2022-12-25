@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638139413225",
+    "project_id": "ctseproj-f1817",
+    "storage_bucket": "ctseproj-f1817.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638139413225:android:d64ffadf1bea85190e3678",
+        "android_client_info": {
+          "package_name": "com.ctse.ctseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638139413225-4ses4ep8igsi4b3g4ouml5m2iu8rrtq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx3kBsy7fkmhmtxkE9AqMrgjEAuXuf7ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638139413225-4ses4ep8igsi4b3g4ouml5m2iu8rrtq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
